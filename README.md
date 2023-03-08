@@ -4,7 +4,9 @@
     <i> "Desenvolva um aplicativo de clima" </i> 
 </p>
 
-![..](./print-site/printGif.gif)
+<p aling="center">
+  <img src="./src/print-site/printGif.gif">
+</p>
 
 ## 🚀 Tecnologias
 
