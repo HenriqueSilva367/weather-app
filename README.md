@@ -35,7 +35,7 @@ npm run dev
 
 ## 📑 Deploy
 
-Acesse o site [clicando aqui]().
+Acesse o site [clicando aqui](https://weather-app-eta-puce-52.vercel.app/).
 
 # 👤 Autor
 
